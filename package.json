@@ -1,0 +1,23 @@
+{
+  "name": "task_front_dev",
+  "version": "1.0.0",
+  "description": "bronislav",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spoonik88/task_front_dev.git"
+  },
+  "author": "bronislav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spoonik88/task_front_dev/issues"
+  },
+  "homepage": "https://github.com/spoonik88/task_front_dev#readme"
+}
